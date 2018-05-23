@@ -1,0 +1,17 @@
+C:\Users\bloveall\Documents\LearningProjects\ReverseMyString\ReverseMyString\obj\Debug\ReverseMyString.exe
+C:\Users\bloveall\Documents\LearningProjects\ReverseMyString\ReverseMyString\obj\Debug\ReverseMyString.pdb
+C:\Users\bloveall\Documents\LearningProjects\ReverseMyString\ReverseMyString\bin\Debug\ReverseMyString.exe.config
+C:\Users\bloveall\Documents\LearningProjects\ReverseMyString\ReverseMyString\bin\Debug\ReverseMyString.exe
+C:\Users\bloveall\Documents\LearningProjects\ReverseMyString\ReverseMyString\bin\Debug\ReverseMyString.pdb
+C:\Users\bloveall\Documents\LearningProjects\StringManipulation\StringManipulation\bin\Debug\ReverseMyString.exe.config
+C:\Users\bloveall\Documents\LearningProjects\StringManipulation\StringManipulation\bin\Debug\ReverseMyString.exe
+C:\Users\bloveall\Documents\LearningProjects\StringManipulation\StringManipulation\bin\Debug\ReverseMyString.pdb
+C:\Users\bloveall\Documents\LearningProjects\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csprojResolveAssemblyReference.cache
+C:\Users\bloveall\Documents\LearningProjects\StringManipulation\StringManipulation\obj\Debug\ReverseMyString.exe
+C:\Users\bloveall\Documents\LearningProjects\StringManipulation\StringManipulation\obj\Debug\ReverseMyString.pdb
+C:\Users\bloveall\Documents\GitHub\StringManipulation\StringManipulation\bin\Debug\ReverseMyString.exe.config
+C:\Users\bloveall\Documents\GitHub\StringManipulation\StringManipulation\obj\Debug\ReverseMyString.exe
+C:\Users\bloveall\Documents\GitHub\StringManipulation\StringManipulation\obj\Debug\ReverseMyString.pdb
+C:\Users\bloveall\Documents\GitHub\StringManipulation\StringManipulation\bin\Debug\ReverseMyString.exe
+C:\Users\bloveall\Documents\GitHub\StringManipulation\StringManipulation\bin\Debug\ReverseMyString.pdb
+C:\Users\bloveall\Documents\GitHub\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csprojResolveAssemblyReference.cache
